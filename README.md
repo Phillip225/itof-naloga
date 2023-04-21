@@ -11,3 +11,9 @@ Odvisnost razdalje od fazne spremembe pri oddanem in modulirnem signalu z amplit
 Ovisnost razdalje od fazne spremembe pri oddanem in modulirnem signalu v razponu pozitivnih vrednosti.
 
 ![](img/part-2.png)
+
+# 3. del
+
+Trapezoidni signali
+
+![](img/part-3.png)
